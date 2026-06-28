@@ -3,6 +3,10 @@
 ## 安装
 
 ```bash
+uv sync
+```
+## pip
+```bash
 uv pip install -U "mineru[all]"
 ```
 
